@@ -42,3 +42,11 @@ hr {
     border-width: 2px;
 }
 
+#results_table td{
+    border: 1px solid black;
+}
+
+#results_table {
+    background-color: white;
+    color: black;
+}
